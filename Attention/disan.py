@@ -7,7 +7,6 @@ Directional Self-Attention Network
 Compatibility: Python 3.5.2, Tensorflow 1.2
 """
 
-import tensorflow as tf
 from functools import reduce
 from operator import mul
 
