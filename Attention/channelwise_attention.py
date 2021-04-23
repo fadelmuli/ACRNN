@@ -1,5 +1,3 @@
-%tensorflow_version 1.x
-
 import tensorflow as tf
 
 def channel_wise_attention(feature_map, H, W, C, weight_decay=0.00004, scope='', reuse=None):
